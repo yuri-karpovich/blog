@@ -21,23 +21,23 @@ const config = {
   //     shortname: "invisible-place",
   //   },
   // },
-  // comments: {
-  //   provider: "giscus",
-  //   config: {
-  //     repo: "yuri-karpovich/blog",
-  //     repositoryId: "688990719",
-  //     category: "Blog Comments",
-  //     categoryId: "40159463",
-  //   },
-  // },
-
   comments: {
-    provider: "utterances",
+    provider: "giscus",
     config: {
       repo: "yuri-karpovich/blog",
-      label: "blog-comment",
+      repositoryId: "R_kgDOKREp_w",
+      category: "Blog Comments",
+      categoryId: "DIC_kwDOKREp_84CZMjn",
     },
   },
+
+  // comments: {
+  //   provider: "utterances",
+  //   config: {
+  //     repo: "yuri-karpovich/blog",
+  //     label: "blog-comment",
+  //   },
+  // },
 };
 
 export default config;
