@@ -25,7 +25,7 @@ const config = {
     provider: "giscus",
     config: {
       repo: "yuri-karpovich/blog",
-      repositoryId: "40159463",
+      repositoryId: "1",
       category: "Blog Comments",
       categoryId: "40159463",
     },
