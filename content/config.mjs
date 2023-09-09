@@ -36,7 +36,6 @@ const config = {
     config: {
       repo: "yuri-karpovich/blog",
       label: "blog-comment",
-      theme: "photon-dark",
     },
   },
 };
