@@ -20,23 +20,23 @@ const config = {
   //   },
   // },
 
-  // comments: {
-  //   provider: "giscus",
-  //   config: {
-  //     repo: "yuri-karpovich/blog",
-  //     repositoryId: "R_kgDOKREp_w",
-  //     category: "Blog Comments",
-  //     categoryId: "DIC_kwDOKREp_84CZMjn",
-  //   },
-  // },
-
   comments: {
-    provider: "utterances",
+    provider: "giscus",
     config: {
       repo: "yuri-karpovich/blog",
-      label: "blog-comment",
+      repositoryId: "R_kgDOKREp_w",
+      category: "Blog Comments",
+      categoryId: "DIC_kwDOKREp_84CZMjn",
     },
   },
+
+  // comments: {
+  //   provider: "utterances",
+  //   config: {
+  //     repo: "yuri-karpovich/blog",
+  //     label: "blog-comment",
+  //   },
+  // },
 };
 
 export default config;
