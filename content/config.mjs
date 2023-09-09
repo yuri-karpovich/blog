@@ -4,10 +4,13 @@ const config = {
   description: "This is a digital garden created by Yuri Karpovich",
   author: "Yuri Karpovich",
   // logo image
-  // authorLogo: "/images/logo.svg",
+  authorLogo: "/assets/avatar.png",
   // url to author website
   domain: "https://invisible.place/",
-  navLinks: [{ href: "/About%20Me", name: "About Me" }],
+  navLinks: [
+      { href: "/About%20Me", name: "About Me" },
+      { href: "/blog", name: "Blog" },
+  ],
   search: {
     provider: "kbar",
   },
