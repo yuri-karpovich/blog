@@ -10,3 +10,4 @@ Instead of creating a traditional blog, I prefer a Digital Garden style for my n
 - [GitHub](https://github.com/yuri-karpovich)
 
 ![[avatar.png]]
+![[assets/avatar.png]]
