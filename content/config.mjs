@@ -15,10 +15,19 @@ const config = {
     provider: "kbar",
   },
   showComments: true,
+  // comments: {
+  //   provider: "disqus",
+  //   config: {
+  //     shortname: "invisible-place",
+  //   },
+  // },
   comments: {
-    provider: "disqus",
+    provider: "giscus",
     config: {
-      shortname: "invisible-place",
+      repo: "yuri-karpovich/blog",
+      repositoryId: "40159463",
+      category: "Blog Comments",
+      categoryId: "40159463",
     },
   },
 };
