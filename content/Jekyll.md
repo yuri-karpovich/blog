@@ -1,10 +1,6 @@
 ---
 title: Jekyll - Static site generator for your Blog
 ---
-
-```
-# Jekyll
-
 [Jekyll](https://jekyllrb.com/) is a Ruby-based static site generator that converts Markdown pages into static websites.
 
 ## Installation
