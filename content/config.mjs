@@ -1,5 +1,5 @@
 const config = {
-  title: "Digital Garden",
+  title: "Yuri Karpovich",
   // adding a description helps with SEO
   description: "This is a digital garden created by Yuri Karpovich",
   author: "Yuri Karpovich",
