@@ -2,7 +2,6 @@
 title: Choosing Tools for a Blog or Digital Garden
 description: An overview of existing tools for starting a programmer's blog
 date: 2023-09-10
-authors: [yuri-karpovich]
 ---
 ## Requirements  
   
