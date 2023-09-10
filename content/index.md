@@ -10,7 +10,9 @@ I'm a geek and software engineer with extensive experience that could be helpful
 
 Instead of creating a traditional blog, I prefer a Digital Garden style for my notes. They may not always have a formal or structured appearance. I don't want to spend a lot of time finalizing lengthy articles. Instead, I want to share clean and adequately structured notes. Hope it will be useful for you!  
 
-Use the navigation bar at the top of the page to access a list of blog posts.
+<a class="font-bold" href="/blog">⇨ Read my blog</a>
+
+
 
 ## Join my social networks
   
