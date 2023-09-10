@@ -53,13 +53,13 @@ I will overview the following solutions:
   
 ### [Obsidian Publish](https://obsidian.md/publish)  
 
-✅ Compatible with Obsidian
-✅ Simple
-⛔ Free
-✅ Reliable
-⛔ Support comments
-⛔ Support RSS feeds
-⛔ Open-source
+- ✅ Compatible with Obsidian 
+- ✅ Simple
+- ⛔ Free
+- ✅ Reliable
+- ⛔ Support comments
+- ⛔ Support RSS feeds
+- ⛔ Open-source
   
 The easiest way to share your content from Obsidian is through Obsidian Publish. It has a user-friendly design, but it does come with a monthly subscription fee of $10. Personally, I find it a bit expensive. If it offered features like comments, RSS, and subscriptions, the price would be more reasonable. I'm currently seeking a free alternative. Nonetheless, it's generally appealing, although it's not ideal for blogging—just for quickly sharing your notes.
   
@@ -76,13 +76,13 @@ The easiest way to share your content from Obsidian is through Obsidian Publish.
 
 ### Obsidian + [Flowershow](https://flowershow.app/) + [Vercel](https://vercel.com)  
 
-✅ Compatible with Obsidian
-✅ Simple
-✅ Free
-⛔ Reliable
-✅ Support comments
-⛔ Support RSS feeds
-✅ Open-source
+- ✅ Compatible with Obsidian
+- ✅ Simple
+- ✅ Free
+- ⛔ Reliable
+- ✅ Support comments
+- ⛔ Support RSS feeds
+- ✅ Open-source
 
 [Flowershow](https://flowershow.app/) is a frontend app that renders Obsidian vault pages. It's a relatively new project specifically designed specially for rendering Obsidian pages. You can easily deploy it to [Vercel](https://vercel.com) where it is available for free, with limitations on the number of redeployments allowed on the Free plan.  
   
@@ -110,13 +110,13 @@ The project is currently being actively developed by only one developer, accordi
 
 ### Obsidian + [Jekyll](https://jekyllrb.com/) + Github Pages  
 
-⛔ Compatible with Obsidian
-✅ Simple
-✅ Free
-✅ Reliable
-✅ Support comments
-✅ Support RSS feeds
-✅ Open-source
+- ⛔ Compatible with Obsidian
+- ✅ Simple
+- ✅ Free
+- ✅ Reliable
+- ✅ Support comments
+- ✅ Support RSS feeds
+- ✅ Open-source
     
 [[Jekyll]] is a popular open-source tool that converts your Markdown text into static web pages and publishes them on the web. It can be conveniently hosted on GitHub pages, providing free hosting for your blog.  
   
