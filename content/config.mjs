@@ -14,6 +14,7 @@ const config = {
   search: {
     provider: "kbar",
   },
+  defaultAuthor: "Yuri Karpovich",
   showComments: true,
 
   // comments: {
