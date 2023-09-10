@@ -8,7 +8,6 @@ const config = {
   // url to author website
   domain: "https://invisible.place/",
   navLinks: [
-      { href: "/About%20Me", name: "About Me" },
       { href: "/blog", name: "Blog" },
   ],
   search: {
