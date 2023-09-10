@@ -94,8 +94,8 @@ C --> |Starts depoyment pipeline on Vercel| D[Vercel frontend hosting];
 
 The project is currently being actively developed by only one developer, according to repo Insights. Hopefully, it will not be shut down as it appears to have potential.
 
-![[Flowershow1.png]]
-![[Pasted image 20230911014605.png]]
+![[assets/Flowershow1.png]]
+![[assets/Pasted image 20230911014605.png]]
 #### Pros:  
   
 - Publishing pages is easy (it has a plugin for Obsidian), and deploying a new blog from scratch is also relatively simple.  
