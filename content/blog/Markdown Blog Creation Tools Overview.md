@@ -94,7 +94,7 @@ C --> |Starts depoyment pipeline on Vercel| D[Vercel frontend hosting];
 
 The project is currently being actively developed by only one developer, according to repo Insights. Hopefully, it will not be shut down as it appears to have potential.
 
-![[Pasted image 20230911014858.png]]
+![[Flowershow1.png]]
 ![[Pasted image 20230911014605.png]]
 #### Pros:  
   
