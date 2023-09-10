@@ -61,7 +61,7 @@ I will overview the following solutions:
 - ⛔ Support RSS feeds
 - ⛔ Open-source
   
-The easiest way to share your content from Obsidian is through Obsidian Publish. It has a user-friendly design, but it does come with a monthly subscription fee of $10. Personally, I find it a bit expensive. If it offered features like comments, RSS, and subscriptions, the price would be more reasonable. I'm currently seeking a free alternative. Nonetheless, it's generally appealing, although it's not ideal for blogging—just for quickly sharing your notes.
+The easiest way to share your content from Obsidian is through Obsidian Publish. It has a user-friendly design, but it does come with a monthly subscription fee of $10. Personally, I find it a bit expensive. If it offered features like comments, RSS, and subscriptions, the price would be more reasonable. I'm currently seeking a free alternative. Nonetheless, it's generally appealing, although it's not ideal for blogging — just for quickly sharing your notes.
   
 #### Pros:   
   
