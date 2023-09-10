@@ -8,3 +8,5 @@ Instead of creating a traditional blog, I prefer a Digital Garden style for my n
 
 - [LinkedIn](https://www.linkedin.com/in/yuri-karpovich/)
 - [GitHub](https://github.com/yuri-karpovich)
+
+![[avatar.png|200]]
