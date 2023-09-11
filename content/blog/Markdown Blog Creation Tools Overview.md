@@ -53,6 +53,8 @@ I will overview the following solutions:
   
 ### [Obsidian Publish](https://obsidian.md/publish)  
 
+URL: https://obsidian.md/publish
+
 - ✅ Compatible with Obsidian 
 - ✅ Simple
 - ⛔ Free
@@ -74,7 +76,9 @@ The easiest way to share your content from Obsidian is through Obsidian Publish.
 - Commenting is disabled.
 - It's not possible to add required features like RSS and commenting because the software is not open source.
 
-### Obsidian + [Flowershow](https://flowershow.app/) + [Vercel](https://vercel.com)  
+### Obsidian + [[Flowershow]] + [Vercel](https://vercel.com)  
+
+URL: https://flowershow.app/
 
 - ✅ Compatible with Obsidian
 - ✅ Simple
@@ -133,3 +137,5 @@ The project is currently being actively developed by only one developer, accordi
 [Jekyll](https://jekyllrb.com/) is a more reliable solution and enjoys greater popularity. However, it does not currently have integration with Obsidian. I haven't heard much about [Flowershow](https://flowershow.app/), so I hope they won't abandon the project as it feels a bit unfinished at the moment. I have encountered some bugs, but they were not critical.
 
 If I have more free time, I will choose [Jekyll](https://jekyllrb.com/) and develop a plugin for Obsidian. However, for now, I have decided to give [Flowershow](https://flowershow.app/) a chance. Flowershow is built on React and Next.js, so contributing to this project may not be as fulfilling for me as working with Ruby, which I love. Nonetheless, Flowershow offers almost all the features I need without requiring additional coding. Since this project is marketed as a no-code solution, I don't expect to make any code modifications.
+
+Anyway, I will share my experience of using [[Flowershow]] after a while.
