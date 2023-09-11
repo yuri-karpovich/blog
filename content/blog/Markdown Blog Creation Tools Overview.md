@@ -51,7 +51,8 @@ I will overview the following solutions:
 2. Obsidian + [[Flowershow]] + [Vercel](https://vercel.com)     
 3. Obsidian + [[Jekyll]] + Github Pages    
     
-### [Obsidian Publish](https://obsidian.md/publish)    
+### [Obsidian Publish](https://obsidian.md/publish)   
+
 URL: https://obsidian.md/publish  
   
 - ✅ Compatible with Obsidian   
@@ -88,9 +89,18 @@ URL: https://flowershow.app/
 - ✅ Open-source  
   
 [[Flowershow]] is a frontend app that renders Obsidian vault pages. It's a relatively new project specifically designed specially for rendering Obsidian pages. You can easily deploy it to [Vercel](https://vercel.com) where it is available for free, with limitations on the number of redeployments allowed on the Free plan.    
+
     
-```mermaid  graph TD;  A[Obsidian] --> |Content is commited using the Flowershow plugin| C[GitHub repo];  C --> |Starts depoyment pipeline on Vercel| D[Vercel frontend hosting];    
-```    
+```mermaid  
+  
+graph TD;  
+  
+A[Obsidian] --> |Content is commited using the Flowershow plugin| C[GitHub repo];  
+  
+C --> |Starts depoyment pipeline on Vercel| D[Vercel frontend hosting];  
+  
+```
+
 The project is currently being actively developed by only one developer, according to repo Insights. Hopefully, it will not be shut down as it appears to have potential.  
   
 ![[assets/Flowershow1.png]]  
