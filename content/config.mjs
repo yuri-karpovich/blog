@@ -10,6 +10,7 @@ const config = {
   navLinks: [
       { href: "/blog", name: "Blog" },
   ],
+  analytics: "G-0B4QWRKFJX",
   search: {
     provider: "kbar",
   },
