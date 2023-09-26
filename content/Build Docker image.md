@@ -1,5 +1,6 @@
-# Build Docker image
-
+---
+title: Build Docker image
+---
 ```bash
 docker build --platform linux/amd64 -t some-registry.com/app-name:tag .
 ```
