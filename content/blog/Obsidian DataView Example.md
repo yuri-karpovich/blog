@@ -1,7 +1,8 @@
 ---
-aliases: 
+title: DataView
 tags:
   - project
+date: 2023-10-01
 ---
 
 # DataView Example
